@@ -1,5 +1,5 @@
 # Necesse-Trinkets
-An Terraria Trinket Mod
+A Terraria Trinket Mod
 
 增加了奈斯启示录(necesse)中的部分饰品
 总共50种，基本都保留了其原来设计思路
