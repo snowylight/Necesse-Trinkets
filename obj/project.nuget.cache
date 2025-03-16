@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXb++JYE4V0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\徐叶亮\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\necessetest\\necessetest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\徐叶亮\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

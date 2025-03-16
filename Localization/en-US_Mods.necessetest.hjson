@@ -1,0 +1,348 @@
+Items: {
+	TrackerBoot: {
+		DisplayName: Tracker Boots
+		Tooltip: Increases movement speed by 10%
+	}
+
+	BoneHilt: {
+		DisplayName: Bone Hilt
+		Tooltip: Increases armor penetration by 20
+	}
+
+	ForbiddenSpellbook: {
+		DisplayName: Forbidden Spellbook
+		Tooltip:
+			'''
+			Magic damage increased by 50%
+			All mana costs doubled
+			'''
+	}
+
+	FuzzyDice: {
+		DisplayName: Fuzzy Dice
+		Tooltip: Increases critical strike chance by 5%
+	}
+
+	NobleHorseshoe: {
+		DisplayName: Noble Horseshoe
+		Tooltip: Increases critical strike chance by 5%
+	}
+
+	Carapaceshield: {
+		DisplayName: Carapace Shield
+		Tooltip:
+			'''
+			Provides 12 defense
+			Reduces damage taken by 10%
+			'''
+	}
+
+	FoolsGambit: {
+		DisplayName: Fool's Gambit
+		Tooltip:
+			'''
+			Provides 10 defense
+			Increases damage and critical strike chance by 10%
+			Increases minion capacity by 1
+			'''
+	}
+
+	BloodstoneRing: {
+		DisplayName: Bloodstone Ring
+		Tooltip:
+			'''
+			Reduces defense by 20
+			Grants rapid life regeneration when below 50% health
+			'''
+	}
+
+	LeatherGlove: {
+		DisplayName: Leather Glove
+		Tooltip: Increases attack speed by 10%
+	}
+
+	ShineBelt: {
+		DisplayName: Shine Belt
+		Tooltip: Emits light when equipped
+	}
+
+	ExplorerSatchel: {
+		DisplayName: Explorer Satchel
+		Tooltip:
+			'''
+			Increases attack speed by 10%
+			Increases movement speed by 10%
+			Emits light when equipped
+			'''
+	}
+
+	SpareGemstones: {
+		DisplayName: Spare Gemstones
+		Tooltip: Increases maximum mana by 40
+	}
+
+	SpellStone: {
+		DisplayName: Spell Stone
+		Tooltip: Increases maximum mana by 100
+	}
+
+	KineticBoots: {
+		DisplayName: Kinetic Boots
+		Tooltip: Greatly increases movement speed and acceleration
+	}
+
+	LifePendant: {
+		DisplayName: Life Pendant
+		Tooltip: Slightly increases life regeneration
+	}
+
+	LuckyCape: {
+		DisplayName: Lucky Cape
+		Tooltip: Increases critical strike chance by 10%
+	}
+
+	RegenPendant: {
+		DisplayName: Regen Pendant
+		Tooltip: Grants minor life regeneration
+	}
+
+	CrystalShield: {
+		DisplayName: Crystal Shield
+		Tooltip:
+			'''
+			Provides 5 defense
+			Retaliates with crystal beams when damaged
+			'''
+	}
+
+	MagicManual: {
+		DisplayName: Magic Manual
+		Tooltip: Increases mana regeneration rate
+	}
+
+	Prophecyslab: {
+		DisplayName: Prophecy Slab
+		Tooltip: Increases mana regeneration rate
+	}
+
+	ScryingCards: {
+		DisplayName: Scrying Cards
+		Tooltip: Greatly increases mana regeneration rate
+	}
+
+	ScryingMirror: {
+		DisplayName: Scrying Mirror
+		Tooltip: Increases sentry capacity by 1
+	}
+
+	MesmerTablet: {
+		DisplayName: Mesmer Tablet
+		Tooltip: Increases sentry capacity by 1
+	}
+
+	InducingAmulet: {
+		DisplayName: Inducing Amulet
+		Tooltip: Increases summon damage by 30%
+	}
+
+	HysteriaTablet: {
+		DisplayName: Hysteria Tablet
+		Tooltip:
+			'''
+			Increases sentry capacity by 2
+			Increases summon damage by 30%
+			'''
+	}
+
+	FrozenWave: {
+		DisplayName: Frozen Wave
+		Tooltip: Increases critical damage by 25%
+	}
+
+	FrenzyOrb: {
+		DisplayName: Frenzy Orb
+		Tooltip:
+			'''
+			Grants damage bonus based on missing health
+			Up to 40% maximum bonus
+			'''
+	}
+
+	ClockworkHeart: {
+		DisplayName: Clockwork Heart
+		Tooltip:
+			'''
+			Converts half of max life into armor
+			(1 armor per 10 life)
+			'''
+	}
+
+	FrozenHeart: {
+		DisplayName: Frozen Heart
+		Tooltip: Increases maximum life by 50
+	}
+
+	Lifeline: {
+		DisplayName: Lifeline
+		Tooltip:
+			'''
+			Restores 25% health when receiving lethal damage
+			5 minute cooldown
+			'''
+	}
+
+	FrozenSoul: {
+		DisplayName: Frozen Soul
+		Tooltip:
+			'''
+			Increases maximum life by 50
+			Restores 25% health when receiving lethal damage
+			5 minute cooldown
+			'''
+	}
+
+	VampiresGift: {
+		DisplayName: Vampire's Gift
+		Tooltip:
+			'''
+			Increases movement speed by 15%
+			Provides life steal on attacks
+			'''
+	}
+
+	FireStone: {
+		DisplayName: Fire Stone
+		Tooltip: Attacks inflict powerful burning
+	}
+
+	FrostStone: {
+		DisplayName: Frost Stone
+		Tooltip: Attacks inflict chilling frostburn
+	}
+
+	FrostFlame: {
+		DisplayName: Frost Flame
+		Tooltip:
+			'''
+			Attacks inflict both
+			burning and frostburn
+			'''
+	}
+
+	SpiderCharm: {
+		DisplayName: Spider Charm
+		Tooltip: Attacks inflict potent venom
+	}
+
+	PolarClaw: {
+		DisplayName: Polar Claw
+		Tooltip: Attacks slow enemies and reduce their defense
+	}
+
+	SummonFoci: {
+		DisplayName: Summoner Foci
+		Tooltip:
+			'''
+			Increases summon damage by 20%
+			Reduces non-summon damage by 20%
+			'''
+	}
+
+	RangeFoci: {
+		DisplayName: Ranged Foci
+		Tooltip:
+			'''
+			Increases ranged damage by 20%
+			Reduces non-ranged damage by 20%
+			'''
+	}
+
+	MeleeFoci: {
+		DisplayName: Melee Foci
+		Tooltip:
+			'''
+			Increases melee damage by 20%
+			Reduces non-melee damage by 20%
+			'''
+	}
+
+	MagicFoci: {
+		DisplayName: Arcane Foci
+		Tooltip:
+			'''
+			Increases magic damage by 20%
+			Reduces non-magic damage by 20%
+			'''
+	}
+
+	BalancedFoci: {
+		DisplayName: Balanced Foci
+		Tooltip: Increases all damage by 15%
+	}
+
+	BalancedFrostfireFoci: {
+		DisplayName: Balanced Frostfire Foci
+		Tooltip:
+			'''
+			Increases all damage by 15%
+			Attacks inflict burning and frostburn
+			'''
+	}
+
+	Zephyrcharm: {
+		DisplayName: Zephyr Charm
+		Tooltip: Increases flight time by 50%
+	}
+
+	CompanionLocket: {
+		DisplayName: Companion Locket
+		Tooltip:
+			'''
+			Greatly increases summon damage per unused minion slot
+			Bonus decreases with each active minion
+			'''
+	}
+
+	ChainShirt: {
+		DisplayName: Chain Shirt
+		Tooltip:
+			'''
+			Grants 5 defense
+			when above 90% health
+			'''
+	}
+
+	NecroticSoulSkull: {
+		DisplayName: Necrotic Soulskull
+		Tooltip:
+			'''
+			Increases summon damage by 10%
+			Summon attacks inflict shadowflame and cursed inferno
+			'''
+	}
+
+	ShellofRetribution: {
+		DisplayName: Shell of Retribution
+		Tooltip:
+			'''
+			Provides 4 defense
+			Poisons nearby enemies when damaged
+			'''
+	}
+
+	GuardianShell: {
+		DisplayName: Guardian Shell
+		Tooltip: Nullifies damage once every 30 seconds
+	}
+
+	SiphonShield: {
+		DisplayName: Siphon Shield
+		Tooltip:
+			'''
+			Provides 6 defense
+			Reduces damage taken by 25%
+			Increases max mana by 20
+			Restores mana when damaged
+			'''
+	}
+}

@@ -1,0 +1,361 @@
+Items: {
+	TrackerBoot: {
+		DisplayName: 追踪靴
+		Tooltip: 移动速度提高10%
+	}
+
+	BoneHilt: {
+		DisplayName: 骨制手柄
+		Tooltip: 护甲穿透增加20
+	}
+
+	ForbiddenSpellbook: {
+		DisplayName: 禁忌咒语书
+		Tooltip:
+			'''
+			魔法伤害增加50%
+			所有魔力消耗加倍
+			'''
+	}
+
+	FuzzyDice: {
+		DisplayName: 模糊骰子
+		Tooltip: 暴击率增加5%
+	}
+
+	NobleHorseshoe: {
+		DisplayName: 贵族马掌
+		Tooltip: 暴击率增加5%
+	}
+
+	Carapaceshield: {
+		DisplayName: 甲壳盾
+		Tooltip:
+			'''
+			12防御力
+			伤害减免10%
+			'''
+	}
+
+	FoolsGambit: {
+		DisplayName: 愚者的赌注
+		Tooltip:
+			'''
+			10防御力
+			伤害增加10%
+			暴击率增加10%
+			仆从数量上限增加1个
+			'''
+	}
+
+	BloodstoneRing: {
+		DisplayName: 血石戒指
+		Tooltip:
+			'''
+			-20防御力
+			生命值低于50%时
+			极速再生生命
+			'''
+	}
+
+	LeatherGlove: {
+		DisplayName: 皮革手套
+		Tooltip: 攻击速度增加10%
+	}
+
+	ShineBelt: {
+		DisplayName: 闪耀腰带
+		Tooltip: 佩戴时可提供照明
+	}
+
+	ExplorerSatchel: {
+		DisplayName: 探险家背包
+		Tooltip:
+			'''
+			攻击速度增加10%
+			移动速度提高10%
+			佩戴时可提供照明
+			'''
+	}
+
+	SpareGemstones: {
+		DisplayName: 备用宝石
+		Tooltip: 最大魔力上限增加40
+	}
+
+	SpellStone: {
+		DisplayName: 符咒石
+		Tooltip: 最大魔力上限增加100
+	}
+
+	KineticBoots: {
+		DisplayName: 动力靴
+		Tooltip: 大幅提高移动速度和加速度
+	}
+
+	LifePendant: {
+		DisplayName: 生命吊坠
+		Tooltip: 略快再生生命
+	}
+
+	LuckyCape: {
+		DisplayName: 幸运披风
+		Tooltip: 暴击率增加10%
+	}
+
+	RegenPendant: {
+		DisplayName: 再生吊坠
+		Tooltip: 略慢再生生命
+	}
+
+	CrystalShield: {
+		DisplayName: 水晶盾
+		Tooltip:
+			'''
+			5防御力
+			受伤后将自动
+			反击水晶光束
+			'''
+	}
+
+	MagicManual: {
+		DisplayName: 魔法手册
+		Tooltip: 魔力恢复速度增加
+	}
+
+	Prophecyslab: {
+		DisplayName: 预言板
+		Tooltip: 魔力恢复速度增加
+	}
+
+	ScryingCards: {
+		DisplayName: 占卜牌
+		Tooltip: 魔力恢复速度大幅增加
+	}
+
+	ScryingMirror: {
+		DisplayName: 袖珍镜
+		Tooltip: 哨兵上限增加1个
+	}
+
+	MesmerTablet: {
+		DisplayName: 催眠药片
+		Tooltip: 哨兵上限增加1个
+	}
+
+	InducingAmulet: {
+		DisplayName: 诱导护身符
+		Tooltip: 召唤伤害增加30%
+	}
+
+	HysteriaTablet: {
+		DisplayName: 狂暴药片
+		Tooltip:
+			'''
+			哨兵上限增加2个
+			召唤伤害增加30%
+			'''
+	}
+
+	FrozenWave: {
+		DisplayName: 冰冻之波
+		Tooltip: 暴击伤害增加25%
+	}
+
+	FrenzyOrb: {
+		DisplayName: 狂暴宝珠
+		Tooltip:
+			'''
+			根据损失生命值
+			提供伤害加成
+			最高不超过40%
+			'''
+	}
+
+	ClockworkHeart: {
+		DisplayName: 发条心
+		Tooltip:
+			'''
+			将一半的最大生命值转换为防御力
+			（每10点生命值转换1点防御力）
+			'''
+	}
+
+	FrozenHeart: {
+		DisplayName: 冰冻之心
+		Tooltip: 最大生命上限增加50
+	}
+
+	Lifeline: {
+		DisplayName: 命悬一线护符
+		Tooltip:
+			'''
+			受到致命伤害时
+			立刻恢复25%生命值
+			5分钟冷却时间
+			'''
+	}
+
+	FrozenSoul: {
+		DisplayName: 冰冻魂魄
+		Tooltip:
+			'''
+			最大生命上限增加50
+			受到致命伤害时
+			立刻恢复25%生命值
+			5分钟冷却时间
+			'''
+	}
+
+	VampiresGift: {
+		DisplayName: 吸血鬼的馈赠
+		Tooltip:
+			'''
+			移动速度提高15%
+			攻击时吸取微量生命
+			'''
+	}
+
+	FireStone: {
+		DisplayName: 火焰之石
+		Tooltip: 使攻击附着猛烈燃烧伤害
+	}
+
+	FrostStone: {
+		DisplayName: 寒冰之石
+		Tooltip: 使攻击附着酷冷霜冻伤害
+	}
+
+	FrostFlame: {
+		DisplayName: 冰焰之石
+		Tooltip:
+			'''
+			使攻击同时附着猛烈
+			燃烧和酷冷霜冻伤害
+			'''
+	}
+
+	SpiderCharm: {
+		DisplayName: 蜘蛛之魅
+		Tooltip: 使攻击附着剧烈毒液伤害
+	}
+
+	PolarClaw: {
+		DisplayName: 极地之爪
+		Tooltip: 使攻击附着减速减防效果
+	}
+
+	SummonFoci: {
+		DisplayName: 召唤护符
+		Tooltip:
+			'''
+			召唤伤害增加20%
+			非召唤伤害减少20%
+			'''
+	}
+
+	RangeFoci: {
+		DisplayName: 远程护符
+		Tooltip:
+			'''
+			远程伤害增加20%
+			非远程伤害减少20%
+			'''
+	}
+
+	MeleeFoci: {
+		DisplayName: 近战护符
+		Tooltip:
+			'''
+			近战伤害增加20%
+			非近战伤害减少20%
+			'''
+	}
+
+	MagicFoci: {
+		DisplayName: 魔法护符
+		Tooltip:
+			'''
+			魔法伤害增加20%
+			非魔法伤害减少20%
+			'''
+	}
+
+	BalancedFoci: {
+		DisplayName: 平衡护符
+		Tooltip: 伤害增加15%
+	}
+
+	BalancedFrostfireFoci: {
+		DisplayName: 平衡冰火护符
+		Tooltip:
+			'''
+			伤害增加15%
+			使攻击同时附着猛烈
+			燃烧和酷冷霜冻伤害
+			'''
+	}
+
+	Zephyrcharm: {
+		DisplayName: 微风护石
+		Tooltip: 延长一半飞行时间
+	}
+
+	CompanionLocket: {
+		DisplayName: 同伴护符
+		Tooltip:
+			'''
+			每有一个未使用的仆人召唤位
+			大幅提升召唤伤害
+			召唤物超过一个后增益递减
+			'''
+	}
+
+	ChainShirt: {
+		DisplayName: 锁子甲
+		Tooltip:
+			'''
+			生命值高于90%时
+			提供5防御力
+			'''
+	}
+
+	NecroticSoulSkull: {
+		DisplayName: 死灵之魂头骨
+		Tooltip:
+			'''
+			召唤伤害增加10%
+			使召唤物的攻击附着
+			暗影焰和诅咒地狱伤害
+			'''
+	}
+
+	ShellofRetribution: {
+		DisplayName: 报复之壳
+		Tooltip:
+			'''
+			4防御力
+			受到伤害时使附近单位中毒
+			'''
+	}
+
+	GuardianShell: {
+		DisplayName: 守护者之壳
+		Tooltip:
+			'''
+			生命灵力贯通身体
+			每30秒可减少一次伤害
+			'''
+	}
+
+	SiphonShield: {
+		DisplayName: 虹吸之盾
+		Tooltip:
+			'''
+			6防御力
+			伤害减免25%
+			最大魔力值增加20
+			受伤时恢复魔力
+			'''
+	}
+}
